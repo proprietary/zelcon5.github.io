@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/List.vue"],"names":[],"mappings":"AACA,sCACI,4BAA8B","file":"static/css/app.7315fe87a7b9bf81738da86d10d33e88.css","sourcesContent":["\n.strikethrough input[data-v-1e6c3d1c] {\n    text-decoration: line-through;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/components/List.vue"],"sourceRoot":""}
